@@ -1,7 +1,5 @@
 package ru.innopolis.problem4;
 
-import jdk.nashorn.internal.runtime.options.Option;
-
 import java.util.Optional;
 
 public class Iterator {
